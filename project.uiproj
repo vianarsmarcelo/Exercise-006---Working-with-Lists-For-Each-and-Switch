@@ -1,0 +1,6 @@
+{
+  "Name": "List exercise",
+  "ProjectType": "Process",
+  "Description": "Use-case/ problem statement - separate a collection of error codes using Switch.",
+  "MainFile": "Main.xaml"
+}
